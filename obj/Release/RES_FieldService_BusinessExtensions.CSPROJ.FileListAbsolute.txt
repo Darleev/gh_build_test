@@ -1,0 +1,10 @@
+C:\Work\RES\Source\SourceCode\CCRM.REF\RES.FieldService.BusinessExtensions\bin\Release\RES.FieldService.BusinessExtensions.dll
+C:\Work\RES\Source\SourceCode\CCRM.REF\RES.FieldService.BusinessExtensions\bin\Release\RES.FieldService.BusinessExtensions.pdb
+C:\Work\RES\Source\SourceCode\CCRM.REF\RES.FieldService.BusinessExtensions\bin\Release\CCRM.REFFS.Plugins.dll
+C:\Work\RES\Source\SourceCode\CCRM.REF\RES.FieldService.BusinessExtensions\bin\Release\Microsoft.Crm.SolutionProjects.MSBuild.dll
+C:\Work\RES\Source\SourceCode\CCRM.REF\RES.FieldService.BusinessExtensions\bin\Release\CCRM.REFFS.Plugins.pdb
+C:\Work\RES\Source\SourceCode\CCRM.REF\RES.FieldService.BusinessExtensions\obj\Release\RES_FieldService_BusinessExtensions.CSPROJAssemblyReference.cache
+C:\Work\RES\Source\SourceCode\CCRM.REF\RES.FieldService.BusinessExtensions\obj\Release\RES_FieldService_BusinessExtensions.CSPROJ.CoreCompileInputs.cache
+C:\Work\RES\Source\SourceCode\CCRM.REF\RES.FieldService.BusinessExtensions\obj\Release\RES_FieldService_BusinessExtensions.CSPROJ.CopyComplete
+C:\Work\RES\Source\SourceCode\CCRM.REF\RES.FieldService.BusinessExtensions\obj\Release\RES.FieldService.BusinessExtensions.dll
+C:\Work\RES\Source\SourceCode\CCRM.REF\RES.FieldService.BusinessExtensions\obj\Release\RES.FieldService.BusinessExtensions.pdb
